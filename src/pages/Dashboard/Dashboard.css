@@ -1,0 +1,54 @@
+.dashboard {
+    color: #fff;
+    height: 100vh;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    background: #000030;
+    background-size: cover;
+    background-repeat: repeat;
+    background-image: url('https://s3-alpha-sig.figma.com/img/b8b5/db3e/72428b4c42cb75dad86ada013c01b1e8?Expires=1733702400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=DyfLkYA30SNFgpoM9M6rfjYtbIy5Z3O0r9PuZIqFuKgcZFz2CbtBgyMcfiTwWOsLqa-rqVN~4iZVVgTLTVxH4jUwVZOgn4vEhpfFN6O~d6rt502UPuOkgnVO3-Ip1VV~OfFWJ-bxiSvU-jOSpifKhIcySD~iFHrmmIob8GbvhU~B910AZhy-yQVTHw0SvWQLRvecgh3NTvH4rWKjz-doVmToP5McXhELf9JVV6Uv2rAHDVPuw04fjrBLZSgYdt~QKVHZeI1vOsCLR8-6p3MpEg4rfk0eWfJRHCOmgKD88kbeBWb-5td1fUAecGXNam0boGrCs-4bOC0Sf9a22ygltQ__');
+  }
+  
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-inline: 70px;
+  }
+
+.chart-container {
+  max-height: 470px;
+  width: 1208px;
+  margin-top: 100px;
+  margin-bottom: 0px;
+  background: #1b1b3a;
+  padding-bottom: 20px;
+}
+
+.chart-title {
+    font-size: 40px;
+  }
+  
+.chart-divider {
+    color: #fff;
+  }
+  
+.month-display {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 70px;
+    font-weight: 600;
+  }
+  
+.chart-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+
+  
+
+
+  
