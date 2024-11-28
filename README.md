@@ -31,7 +31,7 @@ Follow these steps to get the application up and running locally:
    npm install
 
 ### Code Structure
-
+ ```bash
 ├── src
 │   ├── components
 │   │   ├── Dashboard.js      # Main dashboard component
