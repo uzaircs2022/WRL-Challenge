@@ -33,13 +33,12 @@ Follow these steps to get the application up and running locally:
 ### Code Structure
  ```bash
 ├── src
-│   ├── components
+│   ├── pages
 │   │   ├── Dashboard.js      # Main dashboard component
-│   │   └── Graph.js          # Graph component to visualize the data
 │   ├── hooks
-│   │   └── useFirebase.js    # Custom hook to fetch data from Firebase
+│   │   └── useActiveUser.js    # Custom hook to fetch data from Firebase
 │   ├── utils
-│   │   └── weekUtils.js      # Helper functions for week calculations
+│   │   └── utils.js      # Helper functions for week calculations
 │   ├── firebase-config.js    # Firebase configuration file
 │   └── App.js                # Main app component
 └── .env                      # Firebase credentials (add to .gitignore)
